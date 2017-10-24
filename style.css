@@ -1,0 +1,80 @@
+body {
+	margin-top: 50px;
+	margin-left: 500px;
+	background-image: url(../img/light3.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+.header{
+    width: 40%;
+	height: 5px;
+	color: 	white;
+	background: #4d4d4d;
+	text-align: center;
+	border: 1px #cce0ff ;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 50px 10px 50px 40px;
+	margin-top: 50px;
+	padding-bottom: 70px;
+	margin-bottom: 1px; 
+	font-family: arial;
+	padding-top: 5px;
+
+}
+.fill {
+	background-color: #ebebe0;
+	width: 40%;
+	height: 370px;
+	float: center;
+	padding: 50px 10px 50px 40px;
+	border-radius:0px 0px 10px 10px;
+	color: white;
+	font-family: arial;
+
+}
+
+label {
+	color: black;
+	height: 10%;
+	line-height: 30px;
+	font-size:15;
+	font-family: arial;	
+	font-weight: 600;
+
+
+}
+
+input {
+	height: 40px;
+	border-radius: 5px;
+	width: 90%;
+	padding-left: 10px;
+	border:1px solid black;
+}
+button {
+	margin-top: 20px;
+	font-size: 15px;
+	color: white;
+	background: #1f1f14;
+	border: none;
+	border-radius: 2px;
+	padding: 5px;
+}
+
+.comment {
+	color: black;
+	line-height: 30px;
+	text-align: center;
+
+}
+.hello {
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	margin-right: 500px;
+}
+.member{
+	color: black;
+}
